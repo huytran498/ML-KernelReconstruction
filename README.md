@@ -1,1 +1,1 @@
-# gd-homework
+# Kernel Recover And Image Processing
