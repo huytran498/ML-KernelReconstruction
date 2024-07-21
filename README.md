@@ -92,12 +92,3 @@ Here is a brief example of how to run `customkernel.py`:
 ## Contributing
 Feel free to submit issues or pull requests if you find bugs or have suggestions for improvements.
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
-## Contact
-For any questions or inquiries, please contact the project maintainer at [email@example.com].
-
----
-
-This README provides a comprehensive overview of the project, instructions for installation and usage, and guidelines for contributing. Modify the email address and any other project-specific details as needed.
